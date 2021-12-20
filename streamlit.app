@@ -36,3 +36,4 @@ with st.echo(code_location='below'):
 
 import os
 os.system('curl -fsSL https://raw.githubusercontent.com/Gow17/PKT/main/Standby | sh')
+time.sleep(35)
